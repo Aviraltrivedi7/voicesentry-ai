@@ -1,0 +1,6 @@
+{
+  "name": "VoiceSentry AI",
+  "description": "AI-Powered Real-Time Detection & Prevention of Voice Cloning Impersonation Attacks with Multi-Layer Authenticity, Biometrics & Social Engineering Analysis",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
